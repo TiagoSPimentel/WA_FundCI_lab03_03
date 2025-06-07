@@ -9,5 +9,4 @@
   "scripts": {
     "test": "jest --coverage"
   }
-
 }
